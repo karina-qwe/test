@@ -1,1 +1,3 @@
 Git’s native environment is in the terminal. New features show up there first, and only at the command line is the full power of Git completely at your disposal. But plain text isn’t the best choice for all tasks; sometimes a visual representation is what you need, and some users are much more comfortable with a point-and-click interface.
+
+When you install Git, you also get its visual tools, gitk and git-gui.
