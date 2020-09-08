@@ -25,6 +25,7 @@ namespace Surname
             Pen penOldLace = new Pen(Color.OldLace, 3);
             Pen penNavajoWhite = new Pen(Color.NavajoWhite, 3);
             Pen penMistyRose = new Pen(Color.MistyRose, 3);
+            gr.DrawLine(penOldLace, 10, 10,10, 70 );
             gr.DrawLine(penLemonChiffon, 20, 10, 70, 80); //X
             gr.DrawLine(penLemonChiffon, 20, 80, 70, 10);//X
             gr.DrawLine(penLemonChiffon, 165, 15, 165, 80);//T

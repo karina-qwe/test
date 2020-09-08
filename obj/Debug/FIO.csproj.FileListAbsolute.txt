@@ -8,3 +8,13 @@ C:\Users\Karine\source\repos\Surname\Surname\obj\Debug\FIO.csproj.GenerateResour
 C:\Users\Karine\source\repos\Surname\Surname\obj\Debug\FIO.csproj.CoreCompileInputs.cache
 C:\Users\Karine\source\repos\Surname\Surname\obj\Debug\Surname.exe
 C:\Users\Karine\source\repos\Surname\Surname\obj\Debug\Surname.pdb
+C:\Users\Karine\Source\Repos\karina-qwe\test\bin\Debug\Surname.exe.config
+C:\Users\Karine\Source\Repos\karina-qwe\test\bin\Debug\Surname.exe
+C:\Users\Karine\Source\Repos\karina-qwe\test\bin\Debug\Surname.pdb
+C:\Users\Karine\Source\Repos\karina-qwe\test\obj\Debug\FIO.csprojAssemblyReference.cache
+C:\Users\Karine\Source\Repos\karina-qwe\test\obj\Debug\Surname.FormFIO.resources
+C:\Users\Karine\Source\Repos\karina-qwe\test\obj\Debug\Surname.Properties.Resources.resources
+C:\Users\Karine\Source\Repos\karina-qwe\test\obj\Debug\FIO.csproj.GenerateResource.cache
+C:\Users\Karine\Source\Repos\karina-qwe\test\obj\Debug\FIO.csproj.CoreCompileInputs.cache
+C:\Users\Karine\Source\Repos\karina-qwe\test\obj\Debug\Surname.exe
+C:\Users\Karine\Source\Repos\karina-qwe\test\obj\Debug\Surname.pdb
